@@ -1,6 +1,6 @@
 # SIMPLEx-MARL
 
-n this project, I created a simple 5x5 grid world environment, where two agents learn to navigate the grid using Q-learning. The goal of each agent is to reach the bottom-right corner of the grid (the goal state) while maximizing its reward. Both agents act independently and learn through interacting with the environment.
+In this project, I created a simple 5x5 grid world environment, where two agents learn to navigate the grid using Q-learning. The goal of each agent is to reach the bottom-right corner of the grid (the goal state) while maximizing its reward. Both agents act independently and learn through interacting with the environment.
 
 The agents receive feedback (rewards) based on their actions. Over time, they learn to navigate the grid more efficiently by improving their policies (set of actions to take from a given state).
 
